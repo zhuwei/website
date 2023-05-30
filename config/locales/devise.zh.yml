@@ -25,7 +25,7 @@ zh:
       sign_in: 登入
       sign_in_with: 使用 %{name} 登录
       sign_out: 登出
-      sign_up: 报名
+      sign_up: 注册
       signed_in_as: 以 %{name} 身份登录
     mailer:
       confirmation_instructions:
@@ -52,8 +52,8 @@ zh:
       updated_not_active: 你已经成功更改密码。
     registrations:
       destroyed: 再见！您的帐户已成功注销。我们希望很快再见到你。
-      sign_up: 报名
-      sign_up_button: 报名
+      sign_up: 注册
+      sign_up_button: 注册
       signed_up: 欢迎！您已成功注册。
       signed_up_but_inactive: 您已成功注册。但是，我们无法让您登录，因为您的帐户尚未激活。
       signed_up_but_locked: 您已成功注册。但是，我们无法让您登录，因为您的帐户已被锁定。

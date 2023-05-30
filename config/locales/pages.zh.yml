@@ -56,12 +56,12 @@ zh:
       night_toggle: 切换当前夜间模式。
       optional_params: 可选参数
       opus: 作品音频流。
-      play_on_speaker: 在相机的扬声器上播放音频文件。
+      play_on_speaker: 在摄像机的扬声器上播放音频文件。
       prometheus_html: <a href="https://prometheus.io/">Prometheus</a>的节点导出器。
       raw_pcm: 原始 PCM 音频流。
       rtsp0: RTSP 主流 (video0)。
       rtsp1: RTSP 子流（视频 1）。
-      title: 宏伟的终点
+      title: 宏伟的终端
       ulaw: μ-law 压缩音频流。
       video: 视频
       webrtc: 网络浏览器中的 WebRTC 直播。
@@ -79,7 +79,7 @@ zh:
       hisitrace_info: 在非库存环境中从 XM 运行 Sofia 的实用程序。
       ipcamdms_info: IPCam设备管理系统
       ipcamdms_info_extra: 俄语用户界面。通过 Wine 在 Windows、Linux 上运行。
-      ipctool_info: 类固醇的 IP 摄像机硬件检查员。此工具不仅可以识别您相机的处理器、传感器、闪存芯片，还可以帮助您备份原始固件等。
+      ipctool_info: 类固醇的 IP 摄像机硬件检查员。此工具不仅可以识别您摄像机的处理器、传感器、闪存芯片，还可以帮助您备份原始固件等。
       majestic_info: 通用 IP 摄像机流媒体。该项目是 OpenIPC 固件的主要部分。虽然现阶段还没有完全开源，但我们正在考虑在项目足够成熟，获得足够的资金进行开放开发时开放代码库。
       mini_info: 一个开源网络摄像机流媒体。将其视为 Majestic 的弟弟。
       motors_info: 管理电机硬件的各种代码。
