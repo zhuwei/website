@@ -22,9 +22,9 @@ zh:
       resend_confirmation: 确认电子邮件
       resend_unlock: 解锁访问
       reset_password: 重设密码
-      sign_in: 登入
+      sign_in: 登录
       sign_in_with: 使用 %{name} 登录
-      sign_out: 登出
+      sign_out: 退出
       sign_up: 注册
       signed_in_as: 以 %{name} 身份登录
     mailer:
@@ -64,8 +64,8 @@ zh:
       updated_but_not_signed_in: 您的帐号已更新成功，但由于您的密码已更改，您需要重新登录。
     sessions:
       already_signed_out: 退出成功。
-      sign_in_as_admin: 登入
-      sign_in_button: 登入
+      sign_in_as_admin: 登录
+      sign_in_button: 登录
       signed_in: 登录成功。
       signed_out: 退出成功。
     unlocks:
